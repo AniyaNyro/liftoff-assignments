@@ -7,11 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This website is an app for Gateway SEC so that the community can check to see what events are coming up and interact with the student empowerment organizations. Each Organization will have access to their profile that keeps track of their progress as an organization and each Team Member will have access to their profile to make updates to their sponsored SEO and profile. 
 ### Features
-Include Features here
+Web App - Display current events.
+          Show deck of Funders.
+          Show deck of Partners.
+          Show deck of Team Members.
+          Show deck of SEO.
+          Have a coutdown page for SEC luanch date.
+          Make blog post.
+          Enter your Access point.
+          Accept Donations.
+          Submit a request for payment.
 ### Technologies
-Include Technologies here
-
+The Web for reasearch.
+IntelliJ
+Java 8
+JavaScript 
+API
+HTML5/CSS
+Pivotal
 ### What I'll Have to Learn
-Include what you will need to learn here
+API
+JavaScript
