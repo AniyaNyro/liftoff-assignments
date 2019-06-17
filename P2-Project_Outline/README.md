@@ -27,6 +27,7 @@ JavaScript
 API
 HTML5/CSS
 Pivotal
+MySQL
 ### What I'll Have to Learn
 API
 JavaScript
