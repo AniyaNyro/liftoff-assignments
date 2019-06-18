@@ -21,7 +21,7 @@ Web App - Display current events.
           Submit a request for payment.
 ### Technologies
 The Web for reasearch.
-IntelliJ
+VS Code for Java
 Java 8
 JavaScript 
 API
